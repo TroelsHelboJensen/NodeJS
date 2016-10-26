@@ -1,0 +1,6 @@
+Mongodb:
+NoSQL - with redundant data
+
+CRUD - Create Read Update Delete
+
+
